@@ -28,4 +28,4 @@ Bethany Garcia | @BethanyG | PyLadies Oakland | Member
 
 # Contributing
 
-If you would like to join, clone this repo and issue a pull request adding yourself to the team section above.
+If you would like to join, open an issue requesting to join using the [contributor template](https://github.com/pyladies/project-communications/issues/new/choose).
