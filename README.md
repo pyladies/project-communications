@@ -25,3 +25,7 @@ Caroline Dantas | @caaddss | PyLadies São Paulo | Member
 Emily Spahn | @eyspahn | PyLadies Seattle | Member
 Marie-Louise | @Marie-L | PyLadies London | Member
 Bethany Garcia | @BethanyG | PyLadies Oakland | Member
+
+# Contributing
+
+If you would like to join, clone this repo and issue a pull request adding yourself to the team section above.
