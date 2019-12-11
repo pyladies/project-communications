@@ -16,5 +16,5 @@
 |[User manual for Alena]() | 
 |[User manual for Emily]() |
 |[User manual for Bethany]() |
-
+|[User manual for Alicia]() |
 
