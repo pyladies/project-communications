@@ -36,9 +36,9 @@ _Team members can choose to work in one of the following areas:_
 - Every two weeks we have a quick catch up (i.e. slack...tbc) to check in on everyone and offer support if needed
 - We meet at the end of each cycle to discuss our work during a retrospective which is followed by sprint planning
 
-# Contributing
+### Contributing
 
-If you would like to join, 
+If you would like to join : 
 
 1. open an issue requesting to join using the [contributor template](https://github.com/pyladies/project-communications/issues/new/choose).
 1. join our slack channel [#project-communications](https://pyladies.slack.com/archives/CQMFU03T4)
