@@ -14,6 +14,7 @@
 |[User manual for Lorena]() | 
 |[User manual for Caroline]() |
 |[User manual for Alena]() | 
-[User manual for Emily]() | [User manual for Bethany]() |
+|[User manual for Emily]() |
+|[User manual for Bethany]() |
 
 
