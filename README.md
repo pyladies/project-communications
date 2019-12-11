@@ -18,6 +18,8 @@ Marie-Louise Annan | @Marie-L | PyLadies London | Co-Lead
 Bethany Garcia | @BethanyG | PyLadies Oakland | Member
 Alena Vorushilova | @voru588 | PyLadies Paris | Member
 
+📌 Check out the [User Manual](https://github.com/pyladies/project-communications/tree/master/user-manual-for-me) for the Projects Communication Team !
+
 ### Areas
 
 _Team members can choose to work in one of the following areas:_
