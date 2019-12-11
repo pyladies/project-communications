@@ -7,7 +7,8 @@ This is inspired by the work of [Cassie Robinson](https://medium.com/@cassierobi
 
 ## User manual for the Projects Communications Team
 
-Name | 
--- |[User manual for Marie-Louise]() |[User manual for Abigail]()| [User manual for Lorena]()| [User manual for Caroline]()| [User manual for Alena]()| [User manual for Emily]() | [User manual for Bethany]()
+Name 
+-- |
+[User manual for Marie-Louise]() |[User manual for Abigail]()| [User manual for Lorena]()| [User manual for Caroline]()| [User manual for Alena]()| [User manual for Emily]() | [User manual for Bethany]()
 
 
