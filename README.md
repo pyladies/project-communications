@@ -23,8 +23,10 @@ Abigail Dogbe | @AbigailMesrenyameDogbe  | PyLadies Ghana | Co-Lead
 Lorena Mesa | @lorenanicole  | PyLadies Chicago | Member
 Caroline Dantas | @caaddss | PyLadies São Paulo | Member
 Emily Spahn | @eyspahn | PyLadies Seattle | Member
-Marie-Louise | @Marie-L | PyLadies London | Member
+Marie-Louise Annan | @Marie-L | PyLadies London | Co-Lead
 Bethany Garcia | @BethanyG | PyLadies Oakland | Member
+Alena Vorushilova | @voru588 | PyLadies Paris | Member
+
 
 # Contributing
 
