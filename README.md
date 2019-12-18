@@ -25,13 +25,18 @@ Alicia Bendz | @albendz | PyLadies Seattle | Member
 
 _Team members can choose to work in one of the following areas:_
 
-1. Blog
-1. Slack
-1. Newsletter
-1. Resources
-1. Event Promotion
-1. Chapter Lead Engagement
-1. Translation
+
+|Area | Project Lead(s)|
+| -- | -- 
+|1. Blog | Marie-Louise |
+|1. Slack | Alicia & Abigail|
+|1. Newsletter | Abigail|
+|1. Resources | Marie-Louise |
+|1. Event Promotion |Position needs to be filled|
+|1. Chapter Lead Engagement |Position needs to be filled|
+|1. Translation |Position needs to be filled|
+|1. Social Media| Alicia|
+
 
 ### Schedule
 
