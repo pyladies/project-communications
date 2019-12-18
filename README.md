@@ -29,13 +29,13 @@ _Team members can choose to work in one of the following areas:_
 |Area | Project Lead(s)|
 | -- | -- 
 |1. Blog | Marie-Louise |
-|1. Slack | Alicia & Abigail|
-|1. Newsletter | Abigail|
-|1. Resources | Marie-Louise |
-|1. Event Promotion |Position needs to be filled|
-|1. Chapter Lead Engagement |Position needs to be filled|
-|1. Translation |Position needs to be filled|
-|1. Social Media| Alicia|
+|2. Slack | Alicia & Abigail|
+|3. Newsletter | Abigail|
+|4. Resources | Marie-Louise |
+|5. Event Promotion |Position needs to be filled|
+|6. Chapter Lead Engagement |Position needs to be filled|
+|7. Translation |Position needs to be filled|
+|8. Social Media| Alicia|
 
 
 ### Schedule
