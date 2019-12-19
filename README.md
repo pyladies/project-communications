@@ -44,6 +44,18 @@ _Team members can choose to work in one of the following areas:_
 - Every two weeks we have a quick catch up (i.e. slack...tbc) to check in on everyone and offer support if needed
 - We meet at the end of each cycle to discuss our work during a retrospective which is followed by sprint planning
 
+### Workflow
+
+**New Issues**
+
+- Co-leads will check for new issues regularly
+- Co-leads will triage and assign new issues within one week
+
+**Requests to join the team**
+
+- Co-leads will respond to new requests / applications in 2 weeks
+
+
 ### Contributing
 
 If you would like to join : 
