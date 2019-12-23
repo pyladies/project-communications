@@ -34,7 +34,7 @@ _Team members can choose to work in one of the following areas:_
 |4. Resources | Marie-Louise |
 |5. Event Promotion |Position needs to be filled|
 |6. Chapter Lead Engagement |Position needs to be filled|
-|7. Translation |Position needs to be filled|
+|7. Translation |Caroline|
 |8. Social Media| Alicia|
 
 
