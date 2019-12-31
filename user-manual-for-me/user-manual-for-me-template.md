@@ -1,38 +1,29 @@
-# [emoji] User Manual For [NAME]
+# [emoji] User Manual For [Abigail Mesrenyame Dogbe]
 
 _headings marked with a * are optional_
 
 ### My time zone
 
-lorem
+GMT
 
 
 ### The best way to communicate with me
-1. lorem
-1. lorem
-1. lorem
+1. slack pm
+2. slack group
+3. email
 
 
 ### Tickets or projects that I'm interested in helping out with
 
-1. lorem
-1. lorem
-1. lorem
+1. Newsletters
 
 
 ### Languages I speak
 
 |Language | Level |
 | -- | -- 
-|Language 1| Native |
-|Language 2 | Intermediate|
-|Language 3 | Beginner|
-|Language 3 | Beginner |
-
-
-### Conditions I like to work in *
-
-lorem
+|English| Native |
+|French | Beginner|
 
 
 ### The best way to receive feedback *
@@ -46,20 +37,22 @@ lorem
 
 ### Things I'd like to gain from working on PyLadies Project Communications *
 
-lorem
+1. Improving my organizing and writing skills
 
 
 ### Times / hours I'd like to work on PyLadies Project Communications activities *
 
-Between [9am -11am, Monday - Friday] 
+Between [4:30pm - 5:30 pmam, Monday - Friday] 
 
 
 ### Things I love *
 
-lorem
+1. Sports
+2. Arts
+3. Organizing
 
 
 ### Other things to know about me *
 
-lorem
+***
 
