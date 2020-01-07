@@ -1,4 +1,4 @@
-# [emoji] User Manual For Abigail Mesrenyame Dogbe
+# 😊 User Manual For Abigail Mesrenyame Dogbe
 
 ### My time zone
 

@@ -10,9 +10,9 @@
 |Name |
 | -- 
 |[🌳User manual for Marie-Louise](https://github.com/pyladies/project-communications/blob/master/user-manual-for-me/user-maual-for-ml.md) |
-|[User manual for Abigail](https://github.com/pyladies/project-communications/blob/master/user-manual-for-me/user-manual-for-abigail.md) | 
+|[😊User manual for Abigail](https://github.com/pyladies/project-communications/blob/master/user-manual-for-me/user-manual-for-abigail.md) | 
 |[User manual for Lorena]() | 
-|[User manual for Caroline](https://github.com/pyladies/project-communications/blob/master/user-manual-for-me/user-manual-for-dantas.md) |
+|[🌳User manual for Caroline](https://github.com/pyladies/project-communications/blob/master/user-manual-for-me/user-manual-for-dantas.md) |
 |[User manual for Alena]() | 
 |[User manual for Emily]() |
 |[User manual for Bethany]() |
