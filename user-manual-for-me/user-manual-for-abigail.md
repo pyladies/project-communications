@@ -1,6 +1,4 @@
-# [emoji] User Manual For [Abigail Mesrenyame Dogbe]
-
-_headings marked with a * are optional_
+# [emoji] User Manual For Abigail Mesrenyame Dogbe
 
 ### My time zone
 
