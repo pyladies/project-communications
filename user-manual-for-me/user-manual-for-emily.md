@@ -44,12 +44,12 @@ Help others learn and grow. Learning python was fantastic for my career, I'd lov
 
 ### Times / hours I'd like to work on PyLadies Project Communications activities *
 
-Whatever
+Flexible
 
 
 ### Things I love *
 
-dogs, playing music
+dogs, playing music, data nerdery
 
 ### Other things to know about me *
 
