@@ -1,6 +1,8 @@
 ---
 name: Issue
 about: This template is for a generic new issue.
+assignees: Marie-L, AbigailMesrenyameDogbe
+labels: new
 ---
 
 
@@ -17,3 +19,6 @@ about: This template is for a generic new issue.
 **Do you want to work on this issue (Yes/No)?**
 
 <!-- Let us know if you're interested in working on this issue. -->
+<!--Tag any relevant parties for review for this issue. -->
+
+cc / @pyladies/communications
