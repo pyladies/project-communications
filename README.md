@@ -17,7 +17,7 @@ Emily Spahn | @eyspahn | PyLadies Seattle | Member
 Marie-Louise Annan | @Marie-L | PyLadies London | Co-Lead
 Bethany Garcia | @BethanyG | PyLadies Oakland | Member
 Alena Vorushilova | @voru588 | PyLadies Paris | Member
-Alicia Bendz | @albendz | PyLadies Seattle | Member
+Alicia Bendz | @albendz | PyLadies Remote | Member|
 
 📌 Check out the [User Manual](https://github.com/pyladies/project-communications/tree/master/user-manual-for-me) for the Projects Communication Team !
 
