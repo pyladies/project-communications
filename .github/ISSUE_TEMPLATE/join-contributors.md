@@ -29,7 +29,7 @@ Name | GitHub Handle | PyLadies Chapter | Team Role
 |Language 1| Native |
 |Language 2 | Intermediate|
 |Language 3 | Beginner|
-|Language 3 | Beginner |
+
 
 **Are you comfortable communicating in English?**
 
@@ -37,6 +37,12 @@ Name | GitHub Handle | PyLadies Chapter | Team Role
 - _NOTE:team members must be available for a monthly video call_
 
 **Involvement** : How frequently can you contribute to the team?
-- _NOTE: Team members are required to be active during a 3 month period_
+- _NOTE: Team members are required to be active during a 3 month period (involvement is defined below):_
+_1. giving feedback/comments on one or more issues the group is working through_ 
+_1. opening issues on a relevant topic for the group_ 
+_1. submitting a PR or review_
+_1. having a substantial slack discussion on a topic_
+_1. attending one or more meetings in a three month period_
+_1. making progress on an assigned issue_  
 
 
