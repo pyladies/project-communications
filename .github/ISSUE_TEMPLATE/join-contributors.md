@@ -3,7 +3,7 @@ name: Contributors
 about: This template should be used for those wishing to join the Project Communications team as a team member (who is then a contributor to this repository).
 title: 'Request to Join Project Communications: <GitHub Handle>'
 labels: contributor
-assignees: lorenanicole
+assignees: Marie-L
 
 ---
 
@@ -17,3 +17,32 @@ Name | GitHub Handle | PyLadies Chapter | Team Role
 **Why do you want to join the PyLadies Project Communications team?**
 
 /cc @pyladies/communications
+
+**Issues or projects that I'm interested in helping out with**
+
+**Time zone**
+
+**Languages I speak**
+
+|Language | Level |
+| -- | -- 
+|Language 1| Native |
+|Language 2 | Intermediate|
+|Language 3 | Beginner|
+
+
+**Are you comfortable communicating in English?**
+
+**Monthly meetings**: Are you available to attend conference calls once a month? 
+- _NOTE:team members must be available for a monthly video call_
+
+**Involvement** : How frequently can you contribute to the team?
+- _NOTE: Team members are required to be active during a 3 month period (involvement is defined below):_
+_1. giving feedback/comments on one or more issues the group is working through_ 
+_1. opening issues on a relevant topic for the group_ 
+_1. submitting a PR or review_
+_1. having a substantial slack discussion on a topic_
+_1. attending one or more meetings in a three month period_
+_1. making progress on an assigned issue_  
+
+
