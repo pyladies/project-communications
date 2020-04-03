@@ -62,3 +62,7 @@ If you would like to join :
 
 1. open an issue requesting to join using the [contributor template](https://github.com/pyladies/project-communications/issues/new/choose).
 1. join our slack channel [#project-communications](https://pyladies.slack.com/archives/CQMFU03T4)
+
+### Code of Conduct
+
+Pyladies is dedicated to providing a respectful, harassment-free community for everyone. Please read our full code of conduct [here](https://github.com/pyladies/project-communications/tree/master/code_of_conduct).
