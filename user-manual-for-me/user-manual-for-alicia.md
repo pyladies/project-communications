@@ -1,4 +1,4 @@
-# [emoji] User Manual For Alicia Bendz
+# 🧶 User Manual For Alicia Bendz
 
 ### My time zone
 
