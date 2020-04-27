@@ -16,5 +16,5 @@
 |[User manual for Alena]() | 
 |[User manual for Emily]() |
 |[User manual for Bethany]() |
-|[User manual for Alicia]() |
+|[🧶User manual for Alicia](https://github.com/pyladies/project-communications/blob/master/user-manual-for-me/user-manual-for-alicia.md) |
 
