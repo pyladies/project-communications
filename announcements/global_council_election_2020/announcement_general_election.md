@@ -2,7 +2,7 @@
 
 ## PyLadies first Global Council Election is now open! (blog post suggestion)
 
-The Python open source community is renowned for being innovative yet friendly and open. We are a part of a large ecosystem of passionate engineers, data scientists, analysts, coordinators and students. If you’re interested in contributing, why not join our first Global PyLadies council.
+The PyLadies community is renowned for being innovative yet friendly and open. We are a part of a large ecosystem of passionate engineers, data scientists, analysts, coordinators and students. If you’re interested in contributing, why not join our first Global PyLadies council.
 
 As a council member, you will have a unique opportunity to advance the PyLadies mission, increase engagement and collaboration within our community and the wider Python community. 
 
