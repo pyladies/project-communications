@@ -12,6 +12,6 @@ If you’re keen in shaping the future of PyLadies, click[here](https://pyladies
 
 ### Social media announcement draft copy
 
-1. 📣 Attn PyLadies members! PyLadies General Council Election is now OPEN! To nominate, fill in the [form](link)
+1. 📣 Attn PyLadies members! PyLadies General Council Election is now OPEN! To nominate, fill in the [form](https://bit.ly/GlobalElection_2020)
 1. If you’re interested in shaping the future of PyLadies, click[here](https://pyladies.github.io/pages/election.html) to find out more.
 1. 📣 Attn PyLadies members! We have nine seats on our Global Council - you can either nominate a peer or self nominate. The winners are elected by the community. Click[here](https://pyladies.github.io/pages/election.html) to find out more.
