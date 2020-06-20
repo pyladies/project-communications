@@ -49,7 +49,7 @@ to Python or PyLadies.
 Engagement
 - Tag all of your tweets with the #PyLadies hashtag. This makes them searchable and more visible
 - On tagging @PyLadies: please do that if you are referring to the global organisation. If you want to refer to PyLadies in general, please use the hashtag.
--  Please add further hashtags to #rladies in the following situations:
+-  Please add further hashtags to #PyLadies in the following situations:
    - If your chapter has a visitor from another chapter, please take a photo and share
 it on Twitter using the hashtag, #PyLadiesvisits
    - If you are sharing pictures of PyLadies themed baked goods (cakes, muffins,
