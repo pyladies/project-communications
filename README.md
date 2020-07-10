@@ -10,7 +10,7 @@ A team to handle the Global PyLadies Communication and Engagement work. Work inc
 
 Name | GitHub Handle | PyLadies Chapter | Team Role
 -- | -- | -- | --
-Abigail Dogbe | @AbigailMesrenyameDogbe  | PyLadies Ghana | Co-Lead
+Abigail Dogbe | @AbigailDogbe  | PyLadies Ghana | Co-Lead
 Lorena Mesa | @lorenanicole  | PyLadies Chicago | Member
 Caroline Dantas | @caaddss | PyLadies São Paulo | Member
 Emily Spahn | @eyspahn | PyLadies Seattle | Member
