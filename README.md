@@ -1,10 +1,15 @@
-# PyLadies Project: Communications
+
+![communications banner](assets/comms_banner.png)
 
 The proposal for this project can be found [here](https://github.com/pyladies/global-organizing/issues/42).
 
 ### Mission
 
-A team to handle the Global PyLadies Communication and Engagement work. Work includes managing comms as it relates to interchapter communication and managing digital assets (e.g. blog, Slack). As such, Project lead(s) should include at least one seasoned PyLadies Chapter organizer, however team members can be any self-identifying PyLadies member.
+- To handle the Global PyLadies Communication and Engagement work. 
+- Work includes :
+    - managing comms as it relates to inter-chapter communication and managing digital assets (e.g. blog, Slack). 
+
+As such, Project lead(s) should include at least one seasoned PyLadies Chapter organizer, however team members can be any self-identifying PyLadies member.
 
 ### Team
 
@@ -12,30 +17,36 @@ Name | GitHub Handle | PyLadies Chapter | Team Role
 -- | -- | -- | --
 Abigail Dogbe | @AbigailDogbe  | PyLadies Ghana | Co-Lead
 Lorena Mesa | @lorenanicole  | PyLadies Chicago | Member
-Caroline Dantas | @caaddss | PyLadies São Paulo | Member
-Emily Spahn | @eyspahn | PyLadies Seattle | Member
-Marie-Louise Annan | @Marie-L | PyLadies London | Co-Lead
+Carolina Londono Agudelo | @kittylon | PyLadies Amsterdam | Member
+Marie-Louise Annan | @Marie-L | PyLadies Remote | Co-Lead
 Bethany Garcia | @BethanyG | PyLadies Oakland | Member
-Alena Vorushilova | @voru588 | PyLadies Paris | Member
 Alicia Bendz | @albendz | PyLadies Remote | Member|
 
 📌 Check out the [User Manual](https://github.com/pyladies/project-communications/tree/master/user-manual-for-me) for the Projects Communication Team !
 
 ### Areas
 
+![communications areas](assets/comms_activities.png)
+
 _Team members can choose to work in one of the following areas:_
 
 
 |Area | Project Lead(s)|
 | -- | -- 
-|1. Blog | Marie-Louise |
-|2. Slack | Alicia & Abigail|
-|3. Newsletter | Abigail|
-|4. Resources | Marie-Louise |
-|5. Event Promotion |Position needs to be filled|
-|6. Chapter Lead Engagement |Position needs to be filled|
-|7. Translation |Caroline|
-|8. Social Media| Alicia|
+|1. Blog | Position needs to be filled |
+|2. Website | Marie-Louise |
+|3. Slack | Alicia & Abigail|
+|4. Newsletter | Abigail|
+|5. Resources | Position needs to be filled|
+|6. Global Events |Position needs to be filled|
+|7. Chapter Lead Engagement |Position needs to be filled|
+|8. Translation |Position needs to be filled|
+|9. Social Media| Marie-Louise|
+|10. YouTube| Marie-Louise|
+|11. Design| Marie-Louise|
+|12. Sponsorship|Position needs to be filled|
+
+
 
 
 ### Schedule
