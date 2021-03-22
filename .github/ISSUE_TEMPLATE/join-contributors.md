@@ -33,16 +33,16 @@ Name | GitHub Handle | PyLadies Chapter | Team Role
 
 **Are you comfortable communicating in English?**
 
-**Monthly meetings**: Are you available to attend conference calls once a month? 
+**Weekly meetings**: Are you available to attend conference calls once a week? 
 - _NOTE:team members must be available for a monthly video call_
 
 **Involvement** : How frequently can you contribute to the team?
-- _NOTE: Team members are required to be active during a 3 month period (involvement is defined below):_
+- _NOTE: Team members & co-leads are required to be active during a 1 month period (involvement is defined below):_
 _1. giving feedback/comments on one or more issues the group is working through_ 
 _1. opening issues on a relevant topic for the group_ 
-_1. submitting a PR or review_
+_1. submitting a PR for review_
 _1. having a substantial slack discussion on a topic_
-_1. attending one or more meetings in a three month period_
+_1. attending two or more meetings in a one month period_
 _1. making progress on an assigned issue_  
 
 
