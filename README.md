@@ -19,7 +19,6 @@ Abigail Dogbe | @AbigailDogbe  | PyLadies Ghana | Co-Lead
 Lorena Mesa | @lorenanicole  | PyLadies Chicago | Adviser
 Carolina Londono Agudelo | @kittylon | PyLadies Amsterdam | Co-Lead
 Marie-Louise Annan | @Marie-L | PyLadies Remote | Adviser
-Bethany Garcia | @BethanyG | PyLadies Oakland | Member
 Alicia Bendz | @albendz | PyLadies Remote | Member|
 Juliana F. Alves | @julianafalves | PyLadies São Carlos | Co-Lead|
 Ana Cecelia Vieira | @cecivieira | PyLadies Recife | Co-Lead|
