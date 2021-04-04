@@ -19,13 +19,9 @@ Abigail Dogbe | @AbigailDogbe  | PyLadies Ghana | Co-Lead
 Lorena Mesa | @lorenanicole  | PyLadies Chicago | Adviser
 Carolina Londono Agudelo | @kittylon | PyLadies Amsterdam | Co-Lead
 Marie-Louise Annan | @Marie-L | PyLadies Remote | Adviser
-<<<<<<< HEAD
 Bethany Garcia | @BethanyG | PyLadies Oakland | Member
-=======
-Alicia Bendz | @albendz | PyLadies Remote | Member|
->>>>>>> c6f52fbe52cd21affb1011aafb896f3b4532bc47
-Juliana F. Alves | @julianafalves | PyLadies São Carlos | Co-Lead|
-Ana Cecelia Vieira | @cecivieira | PyLadies Recife | Co-Lead|
+Juliana F. Alves | @julianafalves | PyLadies São Carlos | Co-Lead
+Ana Cecelia Vieira | @cecivieira | PyLadies Recife | Co-Lead
 
 📌 Check out the [User Manual](https://github.com/pyladies/project-communications/tree/master/user-manual-for-me) for the Projects Communication Team !
 
